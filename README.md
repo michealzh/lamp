@@ -1,2 +1,2 @@
-# lamp
-lamp blog or bookmark collect
+Javascript 
+template test http://jstemplates.sinaapp.com/
