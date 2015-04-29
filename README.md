@@ -1,2 +1,2 @@
 Javascript 
-template test http://jstemplates.sinaapp.com/
+[template test ](http://jstemplates.sinaapp.com/)
