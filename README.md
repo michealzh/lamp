@@ -60,6 +60,7 @@ Layer extension
 
 [w3cui ](http://www.w3cui.com/)
 
+[w3cfuns 前端网](http://www.w3cfuns.com/)
 ##后端 BackEnd##
 [Teninge](http://tengine.taobao.org/)
 
@@ -133,6 +134,10 @@ Layer extension
 
 [MySQL：如何实现高性能高并发的计数器功能](http://ourmysql.com/archives/1366)
 
+[mysql-conference-2015 slider](http://www.percona.com/live/mysql-conference-2015/slides)
+
+
+
 http://zephir-lang.com/
 
 http://www.infoq.com/cn/php?
@@ -148,3 +153,10 @@ http://www.whycss.com
 
 ## Tutorial
 [Web Development Tutorial](http://www.w3resource.com/)
+##Others
+[创建一个知识社区](http://www.wecenter.com/)
+
+[wecenter sae ](http://www.widuu.com/archives/04/1191.html)
+
+
+
