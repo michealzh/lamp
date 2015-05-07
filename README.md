@@ -2,6 +2,7 @@
 
 [template test ](http://jstemplates.sinaapp.com/)
 
+[前端组件库](http://www.cnblogs.com/LoveOrHate/p/4478190.html)
 ## Tools ##
 
 [Chrome mobile devtools](https://developer.chrome.com/home)
