@@ -152,6 +152,13 @@ http://studygolang.com/readings?rtype=1&lastid=128
 
 http://www.whycss.com
 
+[ASCII、Unicode、GBK和UTF-8字符编码的区别联系](http://dengo.org/archives/901)
+
+[Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
+
+[从零到一一美芽的技术实战](http://upyun-open-talk.b0.upaiyun.com/meiya2.pdf)
+
+[Bootstrap 插件大全](http://classfoo.com/ccby/manual/Goz7M)
 ## Tutorial
 [Web Development Tutorial](http://www.w3resource.com/)
 ##Others
