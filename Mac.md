@@ -11,3 +11,7 @@ rm ~/Library/Application\ Support/Dock/*.db && killall Dock
 ```shell
 defaults write com.apple.dock ResetLaunchPad -bool true && killall Dock
 ```
+- Apple xcode/Command Line Tools download
+```
+https://developer.apple.com/download/more/
+```
