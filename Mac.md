@@ -15,3 +15,9 @@ defaults write com.apple.dock ResetLaunchPad -bool true && killall Dock
 ```
 https://developer.apple.com/download/more/
 ```
+- 不可恢复的错误。securityagent无法创建所要求的机制teamviewerauthplugin:start
+```shell
+rm /Volumes/用户名/var/db/auth.db
+# 例如 
+rm /Volumes/Zhangsan/var/db/auth.db
+```
