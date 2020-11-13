@@ -32,6 +32,11 @@ func f5(a, b int) (int, error) {
 	return a + b, nil
 }
 
+//不定长变参特性：
+//1、不可以在不定长变参后边添加其他参数 func b(a ...int, b string)， 这种写法是错误的
+//2、不定长参数可以放在其他参数后边 func b(b string, a ...int)
+
+
 //... 不定长变参
 func f6(a ...int) {
 
