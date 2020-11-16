@@ -58,8 +58,9 @@ func (Stu) sing(song string) {
 ```
 
 ### Go SFTP
-[ref](https://sftptogo.com/blog/go-sftp/)
-[ref2](https://segmentfault.com/a/1190000019251912)
+- [ref](https://sftptogo.com/blog/go-sftp/)
+- [ref2](https://segmentfault.com/a/1190000019251912)
+- [ref3](https://stackoverflow.com/questions/62308455/why-does-closing-a-sftp-client-not-close-the-whole-ssh-connection)
 
 ```go
 package main
