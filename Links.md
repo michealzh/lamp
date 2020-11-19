@@ -1,1 +1,2 @@
 - https://stores.geohey.com/
+- https://www.tbray.org/ongoing/When/201x/2018/10/25/On-Retirement
