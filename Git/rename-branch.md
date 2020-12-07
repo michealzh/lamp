@@ -1,5 +1,7 @@
 ### 重命名分支名称
 
+- [Ref Stackoverflow](https://stackoverflow.com/questions/30590083/how-do-i-rename-both-a-git-local-and-remote-branch-name)
+
 Rename Local Branch,
 
 My current branch is master
