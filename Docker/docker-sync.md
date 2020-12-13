@@ -78,6 +78,22 @@ docker-compose up -d
 - docker-sync 在执行 start 启动以后,会自动切换到后台执行,本地使用情况下会偶尔出现文件修改了,但是docker目标容器里面的文件没有更新的情况,可以稍微等1s左右或者手动只是 `docker-sync sync` 手动同步文件
 - macOS环境下,docker-sync的同步策略 `sync_strategy` 推荐的是`native_osx`,但是使用下来好像文件同步没生效,后面改成`unison`就好了,这个问题又空再研究吧
 
+#### 遇到的问题
+- 如果遇到报错 `install unox fail, `:using => "python@x.y"` #754` 参考下面修复:
+
+```
+#ref https://github.com/EugenMayer/docker-sync/issues/754
+I found a solution.
+using "brew edit unox"
+modify depends_on "python@3" to depends_on "python@3.8"
+then run "brew install -s unox" or "brew install --build-from-source unox" can install now
+```
+
+- 如果遇到 docker-sync 报错命令未找到,尝试执行以下命令
+
+```shell
+export PATH=$PATH:~/.gem/ruby/2.7.0/bin
+```
 
 #### 参照说明
 - https://blog.wangmao.me/use-docker-sync-for-macos.html
