@@ -1,0 +1,6 @@
+- download url: https://www.rarlab.com/download.htm
+- download Resource Hacker
+- 80 2052
+- change “##0aN9=***#，to ”#0aN9=
+- compile
+- save to overwrite
