@@ -1,0 +1,30 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "centos/7"
+  config.vm.box_check_update = false
+  # config.vm.network "forwarded_port", guest: 80, host: 8080, host_ip: "127.0.0.1"
+  #config.vm.network "forwarded_port", guest: 6379, host: 6379
+
+  config.vm.network "private_network", ip: "192.168.33.10"
+  config.vm.network "public_network", bridge: "en0: Wi-Fi (AirPort)"
+  config.vm.synced_folder "/Users/demo/go", "/home/vagrant/go", type: "nfs"
+
+  #config.vm.synced_folder "/Users/demo/PhpstormProjects", "/home/www", owner: "www", group: "www"
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.memory = "2048"
+    vb.cpus=2
+    vb.name="centos-docker"
+  end
+
+
+  # Enable provisioning with a shell script. Additional provisioners such as
+  # Ansible, Chef, Docker, Puppet and Salt are also available. Please see the
+  # documentation for more information about their specific syntax and use.
+  # config.vm.provision "shell", inline: <<-SHELL
+  #   apt-get update
+  #   apt-get install -y apache2
+  # SHELL
+end
