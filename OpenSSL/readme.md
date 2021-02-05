@@ -1,3 +1,10 @@
+| 语言 | 格式 | 说明 
+| --- | ---  | --- | 
+|  Java  |  PKCS8 |  代码中需要掐头去尾去掉换行符  |
+| PHP | PKCS1 | 
+| iOS | PKCS8 |
+| OpenSSL | PKCS1 | 
+
 ### 生成pkcs1 秘钥
 ```
 openssl genrsa -out private.pem 1024
