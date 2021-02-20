@@ -1,0 +1,1 @@
+- [上海交通大学](https://mirrors.sjtug.sjtu.edu.cn/)
