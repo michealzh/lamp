@@ -1,1 +1,10 @@
-- [上海交通大学](https://mirrors.sjtug.sjtu.edu.cn/)
+- edu
+  - [上海交通大学](https://mirrors.sjtug.sjtu.edu.cn/)
+- cloud
+  - [Aliyun cloud](https://developer.aliyun.com/mirror/)
+  - [Tencent cloud](https://mirrors.cloud.tencent.com/)
+  - [Pingan cloud](https://mirrors.pinganyun.com/)
+  - [Netease cloud](https://mirrors.163.com/)
+  - [Sohu cloud](http://mirrors.sohu.com/)
+  - [首都云](http://mirrors.yun-idc.com/)
+  - [Huawei cloud](https://mirrors.huaweicloud.com/)
