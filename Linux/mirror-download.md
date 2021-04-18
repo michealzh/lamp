@@ -1,0 +1,1 @@
+- [mirror download](https://unix.stackexchange.com/questions/476973/download-all-rpm-packages-from-centos-repo)
