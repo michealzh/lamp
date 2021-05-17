@@ -21,6 +21,10 @@
 
 
 ## Java
-- [JDk](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Spring](https://spring.io/)
 - 
+
+
+## Reference
+- [Java stack](https://github.com/javastacks/javastack)
