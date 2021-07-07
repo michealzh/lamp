@@ -1,2 +1,3 @@
 - [http协议](https://zq99299.github.io/note-book2/http-protocol/)
 - [TCP SYN/ACK](https://www.zhihu.com/question/24853633)
+- [gzip-zstd](https://tech.meituan.com/2021/01/07/pack-gzip-zstd-lz4.html)
