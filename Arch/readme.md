@@ -3,3 +3,5 @@
 - [gzip-zstd](https://tech.meituan.com/2021/01/07/pack-gzip-zstd-lz4.html)
 - diagram
   - [kroki](https://kroki.io/)
+- SLA
+  - [SLA](https://blog.skk.moe/post/cloud-and-sla/)
