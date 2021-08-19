@@ -1,1 +1,3 @@
 - cloc path 统计代码行数
+- brew 清除缓存
+  - brew cleanup --prune 0
