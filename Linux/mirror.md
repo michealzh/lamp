@@ -2,6 +2,7 @@
   - [上海交通大学](https://mirrors.sjtug.sjtu.edu.cn/)
   - [中科大](https://mirrors.ustc.edu.cn/)
   - [清华大学](https://mirrors.tuna.tsinghua.edu.cn/)
+    - [https://tuna.moe/](https://tuna.moe/) 
   - [北外](https://mirrors.bfsu.edu.cn/)
   - [北交](https://mirror.bjtu.edu.cn/)
   - [兰州大学](http://mirror.lzu.edu.cn/)
