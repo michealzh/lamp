@@ -15,3 +15,5 @@
   - [Sohu cloud](http://mirrors.sohu.com/)
   - [首都云](http://mirrors.yun-idc.com/)
   - [Huawei cloud](https://mirrors.huaweicloud.com/)
+- iso
+  - [RHEL](https://developers.redhat.com/products/rhel/download)
