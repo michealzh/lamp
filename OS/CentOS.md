@@ -8,3 +8,5 @@ CentOS
 - http://springdale.math.ias.edu/
 - https://yum.oracle.com/index.html
 - https://getfedora.org/en/server/download/
+- https://developers.redhat.com/products/rhel/download
+- 
