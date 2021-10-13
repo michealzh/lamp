@@ -1,2 +1,3 @@
 - [https://certbot.eff.org/lets-encrypt/centosrhel7-nginx](https://certbot.eff.org/lets-encrypt/centosrhel7-nginx)
 - [certbot](https://github.com/akgnah/certbot-wildcard-qcloud-hook)
+- [certbot-aliyun](https://www.cnblogs.com/bbling/p/12807642.html)
