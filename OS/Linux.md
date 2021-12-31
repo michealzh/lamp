@@ -13,3 +13,7 @@
 - Zorin OS	
 - Fedora
 - Deepin
+
+
+### mirror
+- https://mirrors.cloud.tencent.com/
