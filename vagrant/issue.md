@@ -119,3 +119,5 @@ Traceback (most recent call last):
 解决:
 sudo curl -o /opt/vagrant/embedded/gems/2.2.19/gems/vagrant-2.2.19/plugins/hosts/darwin/cap/path.rb \ 
  https://raw.githubusercontent.com/hashicorp/vagrant/42db2569e32a69e604634462b633bb14ca20709a/plugins/hosts/darwin/cap/path.rb 
+
+-- see https://github.com/hashicorp/vagrant/issues/12583
