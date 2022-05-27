@@ -11,3 +11,5 @@ https://mp.weixin.qq.com/s?__biz=MzIyMjQwMTgyNA==&mid=2247485447&idx=1&sn=df8ee4
 
 - php
   - https://laravel-idea.com/docs/install 
+
+- [Jetbrains Notifications](https://www.jetbrains.com/help/idea/notifications.html)
