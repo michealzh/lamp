@@ -1,0 +1,2 @@
+- https://docs.koderover.com/zadig
+- https://kubesphere.io/
