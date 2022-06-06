@@ -1,7 +1,11 @@
+## 常用代码
+
+
 
 - java byte 数组拼接
 
 ```java
+//see: https://mkyong.com/java/java-how-to-join-and-split-byte-arrays-byte/
 private byte[] concatByteArrays(byte[] a, byte[] b) {
   byte[] c = new byte[a.length + b.length];
   System.arraycopy(a, 0, c, 0, a.length);
