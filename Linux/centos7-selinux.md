@@ -21,4 +21,6 @@ setenforce 0 #设置SELinux 成为permissive模式
 systemctl stop firewalld.service
 
 # 开启反向代理
+getsebool -a  | grep httpd_can_network_connect
+
 setsebool httpd_can_network_connect 1
