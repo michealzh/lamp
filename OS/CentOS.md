@@ -11,3 +11,9 @@ CentOS
 - https://developers.redhat.com/products/rhel/download
 - https://www.centos.org/download/
 - 
+
+- Cn
+- openEuler
+- openanolis
+- OpenCloudOS
+- 
