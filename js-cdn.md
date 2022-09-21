@@ -1,0 +1,13 @@
+- http://jscdn.upai.com/
+- http://www.staticfile.org/
+- https://www.jsdelivr.com/
+- http://lib.sinaapp.com/js/jquery/1.7.2/jquery.min.js
+- http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.2.min.js
+- https://cdnjs.cloudflare.com/
+- https://cdn.baomitu.com/
+- https://cdn.bytedance.com/
+- https://cdn.jsdelivr.net/npm/package@version/file
+- https://cdn.jsdelivr.net/gh/user/repo@version/file
+- https://jshub.com/
+- https://www.beecdn.com/
+- 
