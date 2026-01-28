@@ -2,3 +2,5 @@
   - Libreoffice
   - Onlyoffice
   - OpenOffice
+- Windows
+  - https://massgrave.dev/windows_7_links
