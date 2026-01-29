@@ -6,4 +6,4 @@
   - https://massgrave.dev/windows_7_links
   - https://github.com/fastfetch-cli/fastfetch
   - https://www.ventoy.net/cn/download.html
-  - 
+  - https://otp.landian.vip/zh-cn/download.html
