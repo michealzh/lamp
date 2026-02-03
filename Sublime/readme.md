@@ -7,3 +7,10 @@
 ^\n
 ^(\r|\n\r?)
 ```
+
+
+- build system路径
+
+```
+/Users/{userId}/Library/Application Support/Sublime Text/Packages/*.sublime-build
+```
