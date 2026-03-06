@@ -13,3 +13,8 @@ du -sh /var/* 2>/dev/null | sort -rh | head -10
 ```sh
 truncate -s 0 /var/log/nginx/access.log /var/log/nginx/error.log
 ```
+
+# 清理旧的日志文件
+find /var/log -type f -name "*.log.*" -delete
+find /var/log -type f -name "*.gz" -delete
+
